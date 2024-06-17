@@ -1,6 +1,4 @@
-## This code calculates monthly mean NDVI values for time series analysis using Landsat sensors and imported region of interest (ROI) with Google Earth Engine in JavaScript.
-
-// This script calculates mean NDVI within a ROI over a specified date period spanning 12 consecutive months // 
+// This code calculates monthly mean NDVI values for time series analysis using Landsat sensors and imported region of interest (ROI) with Google Earth Engine in JavaScript //
 
 // Add ROI Shapefile to the map. Rename VAR Shapefile as 'ROI'. 
 Map.addLayer(ROI, {}, 'ROI');
