@@ -1,6 +1,6 @@
-# DEVELOP Summer 2023 - NASA JPL
+# Investigating Ghost Forest Development with Satellite Imagery - NASA JPL
 
-Code from DEVELOP 2023 summer project at NASA JPL, "Investigating the Development of Ghost Forests Due to Saltwater Intrusion along the Savannah River, Georgia Coastline of the United States."
+Code from a DEVELOP 2023 summer project at NASA JPL, "Investigating the Development of Ghost Forests Due to Saltwater Intrusion along the Savannah River, Georgia Coastline of the United States."
 
 ## Overview
 
