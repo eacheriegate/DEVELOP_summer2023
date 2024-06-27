@@ -2,6 +2,8 @@
 
 Code from a DEVELOP 2023 summer project at NASA JPL, "Investigating the Development of Ghost Forests Due to Saltwater Intrusion along the Savannah River, Georgia Coastline of the United States."
 
+This project serves as the foundational work from which we are expanding our investigation into ghost forest development and its environmental drivers. We are currently developing this research into a forthcoming manuscript, with details to be released upon the publication's DOI assignment.
+
 ## Overview
 
 This repository details the functions capturing our standardized workflow. Broadly, this workflow includes:
